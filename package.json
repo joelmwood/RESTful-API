@@ -1,8 +1,8 @@
 {
-  "name": "Wiki-API",
+  "name": "wiki-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "RESTful API",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +13,15 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "mongoose": "^5.4.0"
-  }
+    "mongoose": "^6.0.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelmwood/RESTful-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joelmwood/RESTful-API/issues"
+  },
+  "homepage": "https://github.com/joelmwood/RESTful-API#readme"
 }
